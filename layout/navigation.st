@@ -1,7 +1,0 @@
-* "Home"[home]
-* "Documentation"[/documentation/]
-** "Installation"[/documentation/installation/]
-** "Reference"[/documentation/reference/]
-** "Tutorial"[/documentation/tutorial/]
-* "Contact"[/documentation/contact/]
-* "News"[/documentation/news/]

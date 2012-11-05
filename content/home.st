@@ -1,3 +1,0 @@
-^ CogBase Home
-
-*CogBase* is an Object DataBase. More info coming soon...
